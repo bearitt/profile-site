@@ -1,0 +1,22 @@
+{
+  "name": "profile-site-backend",
+  "version": "1.0.0",
+  "description": "Backend server for profile site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bearitt/profile-site.git"
+  },
+  "author": "bearitt",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/bearitt/profile-site/issues"
+  },
+  "homepage": "https://github.com/bearitt/profile-site#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
